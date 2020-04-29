@@ -1,5 +1,5 @@
 # 说明 #
-- 记录NowCoder题解，日更
+- 记录NowCoder题解
 - 题解语言为Java
 - CSDN：https://blog.csdn.net/jiangkun0331
 - 欢迎大家交流
